@@ -38,6 +38,14 @@ public class MainClass4_s {
 		
 		
 		
+		int x1 = 10;
+		int y1 = 5;
+		
+		System.out.println((x1>7) && (y1<=5));     // true
+		System.out.println((x1%3 == 2) || (y1%2 !=1));  // false
+		
+		
+		
 		
 		
 
